@@ -1,2 +1,3 @@
 This is B.txt file 
 Changes in B.txt to push
+3rd line of B.txt file 

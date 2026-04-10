@@ -1,7 +1,7 @@
 This is A.txt file
 Changes in A.txt file
-
 changes in A.txt file to push 
+4th line ofa.txt file
 
 
 :wd
