@@ -1,1 +1,2 @@
 This is B.txt file 
+Changes in B.txt to push
