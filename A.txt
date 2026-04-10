@@ -1,0 +1,5 @@
+This is A.txt file
+Changes in A.txt file
+
+
+:wd
