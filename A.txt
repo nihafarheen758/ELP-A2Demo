@@ -5,6 +5,8 @@ changes in A.txt file to push
 5th line of a.txt file
 6th line of a.txt file
 8th line
+7th line
+
 
 
 :wd
