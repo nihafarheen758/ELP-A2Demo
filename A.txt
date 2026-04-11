@@ -4,6 +4,7 @@ changes in A.txt file to push
 4th line ofa.txt file
 5th line of a.txt file
 6th line of a.txt file
+7th line
 
 
 :wd
